@@ -1,2 +1,0 @@
-"# Njuice-JavaFX" 
-"# Njuice-JavaFX" 
