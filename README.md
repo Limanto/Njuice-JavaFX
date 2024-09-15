@@ -1,2 +1,2 @@
 # Njuice-JavaFX
-Aplikasi berbasis GUI JavaFX yang bertemakan toko jus inovatif yang memungkinkan para user memasukan data jus yang tersedia untuk membeli jus yang diinginkan.
+NJuice is a JavaFX GUI-based application with the theme of an innovative juice shop that allows users to enter the available juice data to purchase the desired juice.
